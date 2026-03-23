@@ -1,20 +1,3 @@
-## Meet Piyush Deshmukh
-
-```javascript
-const piyush = {
-  pronouns: "He" | "Him",
-  code: ["Python", "JavaScript", "HTML", "CSS", "TypeScript"],
-  askMeAbout: ["AI", "Computer Vision", "Deep Learning", "NLP"],
-  technologies: {
-    languages: ["Python", "JavaScript", "TypeScript"],
-    tools: ["Docker"],
-    interests: ["AI-powered medical diagnostics", "Research assistants", "Insurance automation engines", "Image captioning datasets"]
-  },
-  currentFocus: "Exploring the intersection of AI and healthcare technology",
-  funFact: "The early bird gets the worm, but the second mouse gets the cheese."
-};
-```
-
 ### Hello World! 👋
 
 I’m Piyush Deshmukh, an enthusiast in the realms of Computer Vision and Artificial Intelligence. With a focus on AI healthcare applications and innovative machine learning pipelines, I explore the boundaries of technology to drive impactful change.
@@ -50,14 +33,6 @@ My GitHub profile encompasses a diverse range of projects, from medical diagnost
 - Discover ["Sanjeevani-AI" Repository](https://github.com/PiyushDeshmukh-apperentice/Sanjeevani-AI)
 - Dive into the ["NAYAN-Image_Caption_Dataset" Repository](https://github.com/PiyushDeshmukh-apperentice/NAYAN-Image_Caption_Dataset)
 - Connect on LinkedIn: [Piyush Deshmukh](#)
-
----
-
-### GitHub Stats 📊
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=PiyushDeshmukh-apperentice&show_icons=true&count_private=true&hide=issues,contribs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushDeshmukh-apperentice&layout=compact)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PiyushDeshmukh-apperentice)](https://github.com/PiyushDeshmukh-apperentice)
 
 ---
 
