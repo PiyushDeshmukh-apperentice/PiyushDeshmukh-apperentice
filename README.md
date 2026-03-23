@@ -18,10 +18,9 @@ I’m Piyush Deshmukh, an enthusiast in the realms of Computer Vision and Artifi
 
 ### GitHub Activity 🌟
 
-📝 **Total Commits**: 40
 📦 **Public Repositories**: 11
 👥 **Followers**: 2 | 🔍 **Following**: 1
-🌟 **Starred Repositories**: 1
+🌟 **Starred Repositories**: 4
 
 My GitHub profile encompasses a diverse range of projects, from medical diagnostic systems like "Sanjeevani-AI" to research assistants and insurance automation engines. Collaboration and innovation drive my journey on GitHub.
 
